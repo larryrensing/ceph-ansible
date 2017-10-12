@@ -1,0 +1,9 @@
+
+[mons]
+<mon hosts here>
+
+[osds]
+<osd hosts here>
+
+[rgws]
+<rgw hosts here>
